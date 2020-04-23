@@ -1,0 +1,27 @@
+/*Lab5.css*/
+
+.listItem{
+    list-style-type:none;
+    border:1px solid black;
+    display:flex;
+    flex-direction: column;
+    margin-bottom:2%;
+    
+    
+}
+
+.listItemButton{
+    margin-left:30%;
+    margin-right:30%;
+    width:50px;
+}
+ul{
+    display:flex;
+    flex-direction: column;
+}
+.invisible{
+    display:none;
+}
+.strikeThrough{
+    text-decoration: line-through;
+}
